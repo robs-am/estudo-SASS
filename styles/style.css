@@ -11,7 +11,19 @@ body {
   width: 50%;
   background-color: aqua;
 }
+.container .esquerdo .texto {
+  margin-top: 40%;
+  text-align: center;
+  font-size: 150px;
+  color: blueviolet;
+}
 .container .direito {
   width: 50%;
   background-color: blueviolet;
+}
+.container .direito .texto {
+  margin-top: 40%;
+  text-align: center;
+  font-size: 150px;
+  color: aqua;
 }/*# sourceMappingURL=style.css.map */
